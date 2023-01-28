@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Kader
+<hr/>
 
 I'm a Computer Engineer
 
@@ -28,3 +29,7 @@ Languages and Tools:
 
 
 ![KaderOzenn GitHub stats](https://github-readme-stats.vercel.app/api?username=KaderOzenn&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderOzenn&layout=compact)](https://github.com/KaderOzenn/github-readme-stats)
+
+
+
+
