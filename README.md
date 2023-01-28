@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Kader
 <hr/>
-<body align="center">
 I'm a Computer Engineer
 
 - 🔭  I’m working as Full-Stack Developer ...
@@ -16,12 +15,13 @@ I'm a Computer Engineer
 
 <h3 align="center">Languages and Tools:</h3>
 </br>
-
+<div align="center">
 <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://babeljs.io/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://codepen.io/Kaderozen" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" alt="codepen" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://dotnet.microsoft.com/download" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="codepen" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://jquery.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://nodejs.org/en/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://visualstudio.microsoft.com/tr/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.css3.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://html5.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.kaggle.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.latex-project.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="pyhton" width="40" height="40" style="max-width: 100%;"> </a>
+  </div>
 
 
 
@@ -34,7 +34,7 @@ I'm a Computer Engineer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderOzenn&layout=compact)](https://github.com/KaderOzenn/github-readme-stats)
 </br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KaderOzenn)](https://git.io/streak-stats)
-</body>
+
   
   
 
