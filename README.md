@@ -3,7 +3,7 @@
 I'm a Computer Engineer
 
 - 🔭  I’m working as Full-Stack Developer ...
-- 👯 I’m looking to collaborate on #React #Asp.net Core
+- 👯 I’m looking to collaborate on #Javascript #Asp.net Core
 - 📫  How to reach me:   kaderozen014@gmail.com
 
 Connect With Me:
