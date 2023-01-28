@@ -9,7 +9,7 @@ I'm a Computer Engineer
 
 <h3 align="center">Connect With me:</h3>
 
-
+<body align="center">
 <a href="https://www.linkedin.com/in/kader%C3%B6zen/" rel="nofollow">   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kader Özen" height="30" width="40" style="max-width: 100%;"></a> <a href="https://dev.to/kaderozenn" rel="nofollow">   <img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="kaderozenn" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" style="max-width: 100%;"></a> <a href="https://www.kaggle.com/kaderzen" rel="nofollow">   <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3521526-2945029.png" alt="Kader Özen" height="30" width="40" style="max-width: 100%;"></a>
 </br>
 
@@ -35,6 +35,7 @@ I'm a Computer Engineer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderOzenn&layout=compact)](https://github.com/KaderOzenn/github-readme-stats)
 </br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KaderOzenn)](https://git.io/streak-stats)
+</body>
   
   
 
