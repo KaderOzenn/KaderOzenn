@@ -29,9 +29,9 @@ I'm a Computer Engineer
 
 ![KaderOzenn GitHub stats](https://github-readme-stats.vercel.app/api?username=KaderOzenn&show_icons=true&theme=radical)
 </br> </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderOzenn&layout=compact)](https://github.com/KaderOzenn/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KaderOzenn)](https://git.io/streak-stats)
 </br> </br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=KaderOzenn&theme=shades-of-purple&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderOzenn&layout=compact)](https://github.com/KaderOzenn/github-readme-stats)
 
  </div>
 
