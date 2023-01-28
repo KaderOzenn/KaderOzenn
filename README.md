@@ -30,29 +30,8 @@ Languages and Tools:
 
 
 ![KaderOzenn GitHub stats](https://github-readme-stats.vercel.app/api?username=KaderOzenn&show_icons=true&theme=radical)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderOzenn&layout=compact)](https://github.com/KaderOzenn/github-readme-stats)
-import { fetchStats } from 'contribution';
-
-// Callbacks
-fetchStats('KaderOzenn', {
-  onSuccess: data => console.log(data),
-  onFailure: error => console.log(error),
-});
-
-// Promises
-fetchStats('KaderOzenn')
-  .then(data => console.log(data))
-  .catch(error => console.log(error));
-
-// Async/await
-async function getContributionData() {
-  try {
-    const data = await fetchStats('KaderOzenn');
-    console.log(data);
-  } catch (error) {
-    console.log(error);
-  }
-}
 
 
 
