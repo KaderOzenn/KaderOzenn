@@ -32,6 +32,15 @@ Languages and Tools:
 ![KaderOzenn GitHub stats](https://github-readme-stats.vercel.app/api?username=KaderOzenn&show_icons=true&theme=radical)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderOzenn&layout=compact)](https://github.com/KaderOzenn/github-readme-stats)
+<defs xmlns="http://www.w3.org/2000/svg">
+            <clipPath id="outer_rectangle">
+                <rect width="495" height="195" rx="4.5"/>
+            </clipPath>
+            <mask id="mask_out_ring_behind_fire">
+                <rect width="495" height="195" fill="white"/>
+                <ellipse id="mask-ellipse" cx="247.5" cy="32" rx="13" ry="18" fill="black"/>
+            </mask>
+        </defs>
 
 
 
