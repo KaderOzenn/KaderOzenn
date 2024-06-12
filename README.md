@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kader</h1>
 <h3 align="center">Web Technologies Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaderozenn" alt="kaderozenn" /></a> </p>
-
 - 🔭 I’m currently working on **deep learning based face detection**
 
 - 🌱 I’m currently learning **Pyhton,Javascript**
