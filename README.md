@@ -1,41 +1,31 @@
-### Hi there 👋 I'm Kader
-<hr/>
+<h1 align="center">Hi 👋, I'm Kader</h1>
+<h3 align="center">Web Technologies Developer</h3>
 
- 
-I'm a Computer Engineer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaderozenn" alt="kaderozenn" /></a> </p>
 
-- 🔭  I’m working as Full-Stack Developer ...
-- 👯 I’m looking to collaborate on Javascript,Asp.net Core,Pyhton
-- 📫  How to reach me:   kaderozen014@gmail.com
+- 🔭 I’m currently working on **deep learning based face detection**
 
-<div align="center">
-<h3 align="center">Connect With me:</h3>
-</br>
+- 🌱 I’m currently learning **Pyhton,Javascript**
 
-<a href="https://www.linkedin.com/in/kader%C3%B6zen/" rel="nofollow">   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kader Özen" height="30" width="40" style="max-width: 100%;"></a> <a href="https://www.instagram.com/yazilimcibirkiz/" rel="nofollow">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kader Özen" height="30" width="40" style="max-width: 100%;"></a> <a href="https://www.kaggle.com/kaderzen" rel="nofollow">   <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3521526-2945029.png" alt="Kader Özen" height="30" width="40" style="max-width: 100%;"></a>
-</br>
+- 📝 I regularly write articles on [https://kaderozen.blogspot.com/](https://kaderozen.blogspot.com/)
 
-<h3 align="center">Languages and Tools:</h3>
-</br>
+- 💬 Ask me about **frontend dev**
 
-<a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://babeljs.io/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://codepen.io/Kaderozen" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" alt="codepen" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://dotnet.microsoft.com/download" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="codepen" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://jquery.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://nodejs.org/en/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://visualstudio.microsoft.com/tr/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.css3.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://html5.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.kaggle.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.latex-project.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.python.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="pyhton" width="40" height="40" style="max-width: 100%;"> </a>
- </br> </br>
+- 📫 How to reach me **ozenkader@outlook.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/kaderozenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kaderozenn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaderözen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaderözen/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/kaderzen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kaderzen" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/yazilimcibirkiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yazilimcibirkiz/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![KaderOzenn GitHub stats](https://github-readme-stats.vercel.app/api?username=KaderOzenn&show_icons=true&theme=radical)
-</br> </br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KaderOzenn)](https://git.io/streak-stats)
-</br> </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderOzenn&layout=compact)](https://github.com/KaderOzenn/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaderozenn&show_icons=true&locale=en&layout=compact" alt="kaderozenn" /></p>
 
- </div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaderozenn&show_icons=true&locale=en" alt="kaderozenn" /></p>
 
-  
-  
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaderozenn&" alt="kaderozenn" /></p>
