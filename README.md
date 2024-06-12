@@ -2,7 +2,7 @@
 <h3 align="center">Web Technologies Developer</h3>
 <hr/>
 
-- 🔭 I’m currently working on **<h2>Deep Learning Based on Face Detection</h2>**
+- 🔭 I’m currently working on **<h4>Deep Learning Based on Face Detection</h4>**
 
 - 🌱 I’m currently learning **Pyhton,Javascript**
 
