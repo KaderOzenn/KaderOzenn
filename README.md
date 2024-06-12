@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://kaderozen.blogspot.com/](https://kaderozen.blogspot.com/)
 
-- 💬 Ask me about **frontend dev**
+- 💬 Ask me about **frontend dev:)**
 
 - 📫 How to reach me **ozenkader@outlook.com**
 
