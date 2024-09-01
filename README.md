@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **frontend dev:)**
 
-- 📫 How to reach me **ozenkader@outlook.com**
+- 📫 How to reach me **kaderozen1@outlook.com**
 
 <div align="center">
 <h3 align="center">Connect with me:</h3>
