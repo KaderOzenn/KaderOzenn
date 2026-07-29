@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kader</h1>
-<h3 align="center">Web Technologies Developer</h3>
+<h3 align="center">Web Technologies Developer | Data Analysts | Business & Process Development</h3>
 <hr/>
 
 - 🔭 I’m currently working on **Deep Learning Based on Face Detection**
